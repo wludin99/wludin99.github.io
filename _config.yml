@@ -7,31 +7,31 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Liam Ludington / About"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Liam Ludington"
+description              : &description "Fulbright Scholar @ EINC, University of Heidelberg"
+url                      : https://wludin99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "wludin99/wludin99.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Liam Ludington"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  pronouns         : # example: "she/her"
-  location         : "Location"
+  bio              : "Fulbright Scholar @ EINC, University of Heidelberg"
+  pronouns         : "he/him"
+  location         : "Heidelberg, DE"
   orcid            : "http://orcid.org/yourorcidurl"
   employer         :
-  email            :  
+  email            :  "wludin99 at alum dot mit dot edu
   uri              :
 
   # Manuscript repositories
-  arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/" # Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 
   # Social media
@@ -41,7 +41,7 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "academicpages"
+  github           : "wludin99"
   goodreads        :
   google_plus      :
   keybase          :
@@ -56,7 +56,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   wikipedia        :
