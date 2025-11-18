@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Math, MIT, 2022
+* M.S. in Math and Stats, Oxford, 2023
+* M.S. in Mathematical Machine Learning, ENS, 2025
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar 2024 -- Aug 2024: Owkin
+  * ML Research Scientist (Intern)
+  * Paris, France
+  * Duties included: Developing generative models for removing patient batch effect from spatial omics data in the MOSAIC dataset
+  * Supervisor: Jean Feydy + Khalil Ouardini
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2023 -- July 2024: European Institute for Neuromorphic Computing
+  * Fulbright Scholar
+  * Heidelberg University
+  * Duties included: Implementing biologically plausible learning algorithms on analog spiking neuromorphic hardware
+  * Supervisor: Professor Johannes Schemmel
+
+* Fall 2022: ZOAN Japan
+  * Software Engineer (Intern)
+  * Tokyo
+  * Duties included: Building a VR application for surgeons to rehearse operations using patient-specific 3D models
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Math
+* Stats
+* ML
+* Languages
+  * French (C1)
+  * German (C1)
+  * Japanese (C1)
+
+<!--
 
 Publications
 ======
@@ -57,3 +67,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
