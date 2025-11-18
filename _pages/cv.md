@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Math, MIT, 2022
-* M.S. in Math and Stats, Oxford, 2023
-* M.S. in Mathematical Machine Learning, ENS, 2025
+* M.S. in Maths and Stats (OMMS), Oxford, 2023
+* M.S. in Mathematical ML (MVA), ENS Paris Saclay, 2025
 
 Work experience
 ======
