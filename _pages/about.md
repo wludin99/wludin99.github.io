@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<!--
 Liam Ludington
 ======
+-->
 
 Hi there! I'm a mathematician hoping to apply AI to the world's hardest problems. I studied math and computer science at MIT, but I also took lots of interesting classes in physics, econ, Japanese, and Classics. After this, I moved back to the UK, the country of my birth, to study mathematics and statistics at Oxford (parallel to the maths part C course). I then did a year of independent research as a Fulbright scholar in Heidelberg, Germany, at the European Institute for Neuromorphic Computing, where I took biologically plausible learning algorithms and implemented them on the analog spiking neuromorphic computer there.
 
